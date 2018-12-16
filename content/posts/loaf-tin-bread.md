@@ -1,8 +1,7 @@
 ---
 title: "Loaf tin bread"
 description: "A straightforward loaf tin bread, made with mostly white flour"
-date: 2018-11-13T23:54:56Z
-draft: true
+date: 2018-12-16T19:40:00Z
 tags:
     - baking
     - bread

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James writes about food</title>
-    <link>https://jameswritesaboutfood.com/</link>
-    <description>Recent content on James writes about food</description>
+    <title>Bread on James writes about food</title>
+    <link>https://jameswritesaboutfood.com/tags/bread/</link>
+    <description>Recent content in Bread on James writes about food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 16 Dec 2018 19:40:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jameswritesaboutfood.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jameswritesaboutfood.com/tags/bread/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
