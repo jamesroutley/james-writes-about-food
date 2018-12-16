@@ -1,0 +1,112 @@
+body {
+    color: #263238;
+    background-color: #fafafa;
+    text-align: justify;
+    font-size: 18px;
+    font-family: charter, Georgia, serif;
+    line-height: 1.45;
+}
+
+#content {
+    margin: 50px auto 50px;
+    max-width: 700px;
+}
+
+/* Header styling */
+
+header h1 {
+    margin-bottom: 11px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+}
+
+.header-date {
+    text-align: right;
+}
+
+/* Image styling */
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+/* Hyperlink styling */
+
+a:link {
+    color: #263238;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #263238;
+}
+
+a:hover {
+    color: #fafafa;
+    background-color: #263238;
+    text-decoration: none;
+}
+
+hr {
+    margin: 25px auto 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.75rem 0;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* List styling */
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Fonts */
+
+@font-face {
+    font-family: 'charter';
+    src: url('/font/charter_regular.woff') format('woff'),
+    url('/font/charter_regular.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'charter';
+    src: url('/font/charter_italic.woff') format('woff'),
+    url('/font/charter_italic.eot');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'charter';
+    src: url('/font/charter_bold.woff') format('woff'),
+    url('/font/charter_bold.eot');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'charter';
+    src: url('/font/charter_bold_italic.woff') format('woff'),
+    url('/font/charter_bold_italic.eot');
+    font-weight: bold;
+    font-style: italic;
+}
