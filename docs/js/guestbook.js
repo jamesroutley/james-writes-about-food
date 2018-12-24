@@ -5,7 +5,7 @@ window.onload = function() {
       console.log(xhr.response);
     }
   };
-  xhr.open("POST", "localhost:8080/log");
+  xhr.open("POST", "http://api.jameswritesaboutfood.com/log");
   xhr.send(
     JSON.stringify({
       url: window.location.href,
