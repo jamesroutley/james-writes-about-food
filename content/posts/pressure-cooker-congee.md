@@ -1,5 +1,5 @@
 ---
-title: "Pressure Cooker Congee"
+title: "Pressure cooker congee"
 date: 2018-12-27T01:22:33Z
 description: "A quick 20 minute congee"
 ---
