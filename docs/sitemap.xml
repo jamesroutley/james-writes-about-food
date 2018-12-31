@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jameswritesaboutfood.com/posts/pressure-cooker-congee/</loc>
+    <lastmod>2018-12-27T01:22:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/posts/brine-fermented-cabbage/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jameswritesaboutfood.com/posts/loaf-tin-bread/</loc>
     <lastmod>2018-12-16T19:40:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jameswritesaboutfood.com/</loc>
-    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+    <lastmod>2018-12-27T01:22:33+00:00</lastmod>
   </url>
   
   <url>
@@ -30,8 +40,20 @@
   </url>
   
   <url>
+    <loc>https://jameswritesaboutfood.com/tags/fermentation/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jameswritesaboutfood.com/posts/</loc>
-    <lastmod>2018-12-16T19:40:00+00:00</lastmod>
+    <lastmod>2018-12-27T01:22:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jameswritesaboutfood.com/tags/projects/</loc>
+    <lastmod>2018-12-16T20:30:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   

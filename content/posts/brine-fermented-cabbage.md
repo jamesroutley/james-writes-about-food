@@ -2,7 +2,6 @@
 title: "Brine fermented cabbage"
 description: "A simple fermented cabbage, similar to white kimchi or tsukemono"
 date: 2018-12-16T20:30:26Z
-draft: true
 tags:
     - projects
     - fermentation
@@ -26,4 +25,4 @@ tags:
 3. Calculate amount of salt you need. We're using 3% of the weight of the cabbage and the water. To find this, multiply the number on the weighing scale by 0.03
 4. Remove the cabbage, add the salt, stir to dissolve, add the cabbage back
 5. Weigh the cabbage down, so it's submerged
-6. Leave at room temperature for three days, then move to the fridge
+6. Leave at room temperature for two weeks, until the cabbage has lost some of its green colour and tastes sour, then move to the fridge
