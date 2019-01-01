@@ -1,7 +1,6 @@
 body {
     color: #263238;
     background-color: #fafafa;
-    text-align: justify;
     font-size: 18px;
     font-family: charter, Georgia, serif;
     line-height: 1.45;
@@ -20,10 +19,6 @@ header h1 {
 
 h1 {
     font-size: 2em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    text-align: left;
 }
 
 .header-date {
