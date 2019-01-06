@@ -7,6 +7,8 @@ tags:
     - fermentation
 ---
 
+![Brine fermented cabbage](/img/brine-fermented-cabbage/fermented-cabbage.jpg)
+
 ## Ingredients
 
 - 1 head napa cabbage (Chinese cabbage)
