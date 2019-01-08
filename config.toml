@@ -1,5 +1,4 @@
 baseURL = "https://jameswritesaboutfood.com/"
 languageCode = "en-gb"
 title = "James writes about food"
-theme = "routley"
 publishDir = "docs"
